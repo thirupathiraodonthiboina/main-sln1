@@ -104,9 +104,9 @@ EMAIL_HOST_PASSWORD = 'vlfe zxrg actb ylvb'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'SLNP',
-        'PASSWORD':'Slnproject123',
-        'HOST':  'database-5.ch0ymcuikejv.eu-north-1.rds.amazonaws.com',
+        'NAME': 'admin',
+        'PASSWORD':'srilatha4344',
+        'HOST':  'database-43.c1gii4ku2u2j.us-east-1.rds.amazonaws.com',
 
         'USER':'admin',
         'OPTIONS': {
