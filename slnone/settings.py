@@ -105,8 +105,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'admin',
-        'PASSWORD':'srilatha4344',
-        'HOST':  'database-43.c1gii4ku2u2j.us-east-1.rds.amazonaws.com',
+        'PASSWORD':'VENUPALLAPU',
+        'HOST':  'database-1.cn0okis8ccfh.ap-south-1.rds.amazonaws.com',
 
         'USER':'admin',
         'OPTIONS': {
